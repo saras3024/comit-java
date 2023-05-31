@@ -6,7 +6,9 @@ public class Variables {
 		
 		int num = 5;
 		
+		System.out.println(" Testing Git" );
 		System.out.println("The value is :" + num);
+		
 
 	}
 
